@@ -1,10 +1,10 @@
 <?php
 
 /*
-Plugin Name: secretcv
+Plugin Name: Secretcv İş İlanları
 Plugin URI: http://www.secretcv.com/wordpress/
-Description: This plug-in will display the announcement or message with simple horizontal scroller or horizontal ticker.
-Version: 0.0.1
+Description: Secretcv.com sitesinde yayınlanan iş ilanlarından istediğiniz Sektör/Bölüm/Pozisyon/Şehir kombinasyonuna uyan ilanları sitede gösterir.
+Version: 1.0
 Author: Nazmi ZORLU
 Author URI: http://www.secretcv.com/wordpress/
 */
